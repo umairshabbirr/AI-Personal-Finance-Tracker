@@ -1,0 +1,5 @@
+Date,Type,Category,Amount,Description
+2026-01-01,Income,salary,50000.0,salary
+2026-01-02,Expense,Food,1500.0,pizza
+2026-01-03,Expense,Transport,800.0,uber
+2026-01-04,Expense,Bills,3000.0,electricity bill
