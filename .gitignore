@@ -1,0 +1,8 @@
+users.txt
+data_*.csv
+saving_*.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
